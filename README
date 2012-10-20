@@ -1,0 +1,4 @@
+## Author: srinivas muddana <srinivas.muddana@gmail.com>
+## Created: 2012-10-15
+
+Spell checker implemented in Octave. Based on peter norvig's blog entry: http://norvig.com/spell-correct.html
